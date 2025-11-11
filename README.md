@@ -1,5 +1,5 @@
 # Hi, I'm Saurabh 👋  
-Principal AI Engineer & Builder of Large-Scale Knowledge Systems  
+Senior AI Engineer & Builder of Large-Scale Knowledge Systems with over 8 years of experience.
 
 I build AI systems that **understand, reason, and automate knowledge** across millions of documents.  
 My work combines **graph-driven retrieval**, **LLM orchestration**, and **agentic automation**—from legal and finance to compliance and enterprise document intelligence.  
@@ -79,11 +79,11 @@ My work combines **graph-driven retrieval**, **LLM orchestration**, and **agenti
 ---
 
 ### 🌱 Beyond Code
-I split my time between building **AI ecosystems** and handcrafting **stoneware pottery in the Himalayas**.  
-I believe creativity and computation share the same source — structure emerging from chaos.  
+I split my time between building **AI ecosystems** and hiking around **the Himalayas**.  
+I believe creativity and computation share the same source: structure emerging from chaos.  
 
 📫 **Reach me:** iamsaurabhc@gmail.com  
-🌍 **Location:** Pune / Dharamshala — open to relocation (Global)  
+🌍 **Location:** Pune / Dharamshala, open to relocation (Global)  
 🔗 [LinkedIn](https://linkedin.com/in/iamsaurabhc) • [GitHub](https://github.com/iamsaurabhc)
 
 ---
