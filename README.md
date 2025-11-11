@@ -55,8 +55,20 @@ My work combines **graph-driven retrieval**, **LLM orchestration**, and **agenti
 
 ---
 
-### 📈 GitHub Stats
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsaurabhc&show_icons=true&theme=tokyonight)
+### ⚡ GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamsaurabhc&show_icons=true&theme=tokyonight&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaurabhc&layout=compact&theme=tokyonight" height="165">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iamsaurabhc&theme=tokyonight" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsaurabhc&theme=react-dark" height="250">
+</p>
 
 ---
 
